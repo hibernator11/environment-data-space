@@ -18,6 +18,7 @@ This approach is based on previous and open source work based on the use of Jupy
 ## Architecture
 The following architecture will be implemented and used to explore new ways of data analysis and visualisation.
 
+<img src="architecture.jpg" width="50%">
 
 ## References
 
