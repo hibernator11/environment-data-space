@@ -1,5 +1,5 @@
-# environment-data-space
-Towards an environment data space
+# environmental-data-space
+Towards an environmental data space
 
 
 ## Introduction
