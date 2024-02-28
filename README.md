@@ -8,12 +8,16 @@ This is the code repository for the use case based on the enviroment data space 
 ## Previous work
 This approach is based on previous and open source work based on the use of Jupyter Notebooks to provide reproducible code and in the context of several national and international  projects, organisations, webinars and research articles. The list of open source repositories are listed below.
 
+- [International GLAM Labs Community - checklist to publish Collections as data](https://glamlabs.io/checklist/)
+- [A workflow to publish Collections as Data: the case of Cultural Heritage data spaces](https://marketplace.sshopencloud.eu/workflow/I3JvP6)
+- [Workshop Computational access to digital collections - University of Strathclyde](https://github.com/hibernator11/workshop-notebooks-scotland)
 - [Linked Open Data visualization in Cultural Heritage](https://github.com/hibernator11/visual-ch-lod)
 - [National Librarian’s Research Fellowship in Digital Scholarship 2022-23](https://github.com/hibernator11/nls-fellowship-2022-23)
-- [Linked Open Data and SPARQL](https://github.com/hibernator11/hdh-compartir-pantalla-2023)
-- [Linked Open Data in Cultural Heritage](https://github.com/hibernator11/shexer-CH)
-- [DCAT-GLAM-catalog](https://github.com/hibernator11/dcat-glam-catalog)
-- [Learning Python](https://github.com/hibernator11/AprendiendoPython) 
+- [Association Hispanic Digital Humanities - Linked Open Data and SPARQL](https://github.com/hibernator11/hdh-compartir-pantalla-2023)
+- [Linked Open Data quality in Cultural Heritage](https://github.com/hibernator11/shexer-CH)
+- [DCAT GLAM catalog](https://github.com/hibernator11/dcat-glam-catalog)
+- [Learning Python](https://github.com/hibernator11/AprendiendoPython)
+
 
 ## Architecture
 The following architecture will be implemented and used to explore new ways of data analysis and visualisation.
